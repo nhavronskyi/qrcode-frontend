@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    color: black;
+    margin-top: 20px;
+    font-family: MedievalSharp, serif;
+    background-image: url("../images/tavern.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.box {
+    background-image: url("../images/list.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-top: 2px;
+    padding-bottom: 6px;
+}
+
+.footer {
+    background-image: url("../images/list.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-top: 2px;
+    padding-bottom: 6px;
+}
